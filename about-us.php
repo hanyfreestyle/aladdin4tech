@@ -62,7 +62,7 @@ require_once 'inc/menu.php'
             </div>
 
             <div class="who-image">
-                <img src="office.jpg" alt="Office Meeting Room">
+                <img src="img/about_us-1.jpg">
             </div>
         </div>
     </div>
