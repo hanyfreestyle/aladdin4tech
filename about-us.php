@@ -36,29 +36,17 @@ require_once 'inc/menu.php'
         <div class="who-content">
             <div class="who-text">
                 <p>
-                    <strong>ALADDIN HOSTING &amp; IT SERVICES, LLC</strong> is an online company has
-                    been established in Minneapolis, MN. We are an international experienced
-                    developers, designers, network technicians and IT professional team who
-                    enjoy getting to understand the required task to establish it in a
-                    professional way. We enjoy helping our customers who are looking for
-                    web, networking, computer, and iPhone services.
+                    ALADDIN HOSTING & IT SERVICES, LLC is a Minnesota-based technology company founded in 2020, delivering enterprise-level digital solutions to clients worldwide.
+                    <br>
+                    We are a multidisciplinary team of experienced developers, designers, network engineers, and IT specialists committed to excellence, innovation, and reliability. Our expertise enables us to design and implement robust, scalable infrastructures tailored to meet the evolving demands of modern businesses.
+                    <br>
+                    At our core, we prioritize a strategic, client-focused approach—taking the time to understand each project’s objectives and delivering solutions that are secure, efficient, and built for long-term performance.
+                    <br>
+                    Our comprehensive service portfolio includes advanced web hosting solutions, professional web design, secure VPN infrastructures, and fully integrated online billing systems. Each service is engineered to meet the highest standards of performance, security, and scalability.
+                    <br>
+                    At ALADDIN HOSTING & IT SERVICES, LLC, we don’t just deliver services—we build long-term partnerships driven by trust, quality, and results.
                 </p>
 
-                <h3>What makes us different from others is that</h3>
-
-                <ul class="who-list">
-                    <li>
-                        We listen very well, ask questions, study your goals and your available
-                        resources, and then suggest the solutions that best fits your project.
-                    </li>
-                    <li>
-                        We provide the best services with high quality at the lowest prices in the market.
-                    </li>
-                    <li>
-                        We guarantee a 100% sanctification or money back in full during 7 days of
-                        work completion if you have a reasonable reasons.
-                    </li>
-                </ul>
             </div>
 
             <div class="who-image">

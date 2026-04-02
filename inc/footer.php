@@ -5,12 +5,10 @@
         <div class="footer-about">
             <h4>About Us</h4>
             <p>
-                ALADDIN HOSTING & IT SERVICES, LLC is an online company has been
-                established in Minneapolis, MN. We are an international experienced
-                developers, designers, network technicians and IT professional team
-                who enjoy getting to understand the required task to establish it in a
-                professional way. We enjoy helping our customers who are looking for
-                web, networking, computer, and iPhone services.
+
+                ALADDIN HOSTING & IT SERVICES, LLC is a Minnesota-based technology company founded in 2020, delivering enterprise-level digital solutions to clients worldwide.
+
+                Our team of experienced developers, designers, network engineers, and IT specialists is committed to building secure, scalable, and high-performance infrastructures tailored to modern business needs.
             </p>
             <a href="about-us.php" class="read-more">Read More <i class="fa-solid fa-angles-right" style="font-size:12px;color:#00a0ff;"></i></a>
         </div>
