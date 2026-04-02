@@ -62,7 +62,7 @@ require_once 'inc/menu.php'
 
             <div class="info-card">
                 <div class="card-image">
-                    <img src="mission.jpg" alt="Mission">
+                    <img src="img/about_us-2.jpg">
                 </div>
                 <div class="card-content">
                     <h3>OUR MISSION</h3>
@@ -77,7 +77,7 @@ require_once 'inc/menu.php'
 
             <div class="info-card">
                 <div class="card-image">
-                    <img src="vision.jpg" alt="VISION">
+                    <img src="img/about_us-3.jpg">
                 </div>
                 <div class="card-content">
                     <h3>OUR VISION</h3>
