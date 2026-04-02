@@ -12,7 +12,7 @@
                 professional way. We enjoy helping our customers who are looking for
                 web, networking, computer, and iPhone services.
             </p>
-            <a href="#" class="read-more">Read More <i class="fa-solid fa-angles-right" style="font-size:12px;color:#00a0ff;"></i></a>
+            <a href="about-us.php" class="read-more">Read More <i class="fa-solid fa-angles-right" style="font-size:12px;color:#00a0ff;"></i></a>
         </div>
 
         <div class="footer-links">
