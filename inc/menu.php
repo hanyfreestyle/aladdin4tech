@@ -6,13 +6,12 @@
 
         <ul class="menu">
             <li><a href="index.php">Home</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Web Hosting</a></li>
-            <li><a href="#">Online Store</a></li>
-            <li><a href="#">Online Resume</a></li>
-            <li><a href="#">Networking</a></li>
-            <li><a href="#">Surveillance System</a></li>
-            <li><a class="activex" href="contact-us.php">Contact Us</a></li>
+            <li><a href="about-us.php">About Us</a></li>
+            <li><a href="web-hosting.php">Web Hosting</a></li>
+            <li><a href="web-designin.php">Web Designing</a></li>
+            <li><a href="vpn.php">VPN</a></li>
+            <li><a href="online-billing-systems">Online Billing Systems</a></li>
+            <li><a href="contact-us.php">Contact Us</a></li>
         </ul>
     </div>
 </header>
