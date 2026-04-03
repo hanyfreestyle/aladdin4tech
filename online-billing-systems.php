@@ -1,30 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar">
 <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Online Billing Systems | WHMCS Solutions</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+    <title>Online Billing Systems - Aladdin 4Tech</title>
+
+  <?php
+  require_once 'inc/header.php'
+
+  ?>
     <link rel="stylesheet" href="css/online-billing-systems.css">
+
 </head>
 <body>
 
 <!-- Header -->
-<header class="site-header">
-    <div class="container header-wrap">
-        <div class="logo">ALADDIN <span>4TECH</span></div>
+<?php
+require_once 'inc/menu.php'
+?>
 
-        <nav class="nav">
-            <a href="#">Home</a>
-            <a href="#">About Us</a>
-            <a href="#">Services</a>
-            <a href="#" class="active">Online Billing Systems</a>
-            <a href="#">Contact Us</a>
-        </nav>
+<!-- Banner -->
+<section class="page-banner">
+    <div class="container">
+        <div class="breadcrumb">Home Page</div>
+        <h1 class="page-title">Online Billing Systems</h1>
     </div>
-</header>
+</section>
 
 <!-- Hero -->
 <section class="hero-section">
@@ -357,54 +358,10 @@
         <a href="#" class="btn btn-primary">Contact Us Now</a>
     </div>
 </section>
+<?php
+require_once 'inc/footer.php'
+?>
 
-<!-- Footer -->
-<footer class="site-footer">
-    <div class="container footer-grid">
-        <div>
-            <h3>About The Service</h3>
-            <p>
-                We provide customized WHMCS billing systems designed for automation,
-                client management, recurring billing, and service integration.
-            </p>
-        </div>
-
-        <div>
-            <h3>Solutions</h3>
-            <ul>
-                <li><a href="#">WHMCS Setup</a></li>
-                <li><a href="#">Custom Modules</a></li>
-                <li><a href="#">Payment Integrations</a></li>
-                <li><a href="#">Service Automation</a></li>
-            </ul>
-        </div>
-
-        <div>
-            <h3>Industries</h3>
-            <ul>
-                <li><a href="#">Hosting</a></li>
-                <li><a href="#">VPN</a></li>
-                <li><a href="#">IPTV</a></li>
-                <li><a href="#">Subscriptions</a></li>
-            </ul>
-        </div>
-
-        <div>
-            <h3>Contact Info</h3>
-            <ul>
-                <li>Email: info@example.com</li>
-                <li>Phone: +1 000 000 0000</li>
-                <li>Address: Minneapolis, MN</li>
-            </ul>
-        </div>
-    </div>
-
-    <div class="footer-bottom">
-        <div class="container">
-            <p>© 2025 ALADDIN HOSTING &amp; IT SERVICES, LLC. All Rights Reserved.</p>
-        </div>
-    </div>
-</footer>
 
 </body>
 </html>

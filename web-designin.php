@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Web Designing - Aladdin 4Tech</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Web Designing - Aladdin 4Tech</title>
 
   <?php
   require_once 'inc/header.php'
   ?>
 
-
+    <link rel="stylesheet" href="css/web-design.css">
 </head>
 <body>
 
@@ -20,10 +20,10 @@ require_once 'inc/menu.php'
 
 <!-- Banner -->
 <section class="page-banner">
-  <div class="container">
-    <div class="breadcrumb">Home Page</div>
-    <h1 class="page-title">Web Designing</h1>
-  </div>
+    <div class="container">
+        <div class="breadcrumb">Home Page</div>
+        <h1 class="page-title">Web Designing</h1>
+    </div>
 </section>
 
 <section class="hero">
@@ -267,7 +267,6 @@ require_once 'inc/menu.php'
 <?php
 require_once 'inc/footer.php'
 ?>
-
 
 
 </body>

@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contact Us - Aladdin 4Tech</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Contact Us - Aladdin 4Tech</title>
 
   <?php
   require_once 'inc/header.php'
   ?>
 
-
+    <link rel="stylesheet" href="css/about-us.css"/>
 </head>
 <body>
 
@@ -20,10 +20,10 @@ require_once 'inc/menu.php'
 
 <!-- Banner -->
 <section class="page-banner">
-  <div class="container">
-    <div class="breadcrumb">Home Page</div>
-    <h1 class="page-title">About Us</h1>
-  </div>
+    <div class="container">
+        <div class="breadcrumb">Home Page</div>
+        <h1 class="page-title">About Us</h1>
+    </div>
 </section>
 
 
@@ -38,11 +38,14 @@ require_once 'inc/menu.php'
                 <p>
                     ALADDIN HOSTING & IT SERVICES, LLC is a Minnesota-based technology company founded in 2020, delivering enterprise-level digital solutions to clients worldwide.
                     <br>
-                    We are a multidisciplinary team of experienced developers, designers, network engineers, and IT specialists committed to excellence, innovation, and reliability. Our expertise enables us to design and implement robust, scalable infrastructures tailored to meet the evolving demands of modern businesses.
+                    We are a multidisciplinary team of experienced developers, designers, network engineers, and IT specialists committed to excellence, innovation, and reliability. Our expertise enables us to design and
+                    implement robust, scalable infrastructures tailored to meet the evolving demands of modern businesses.
                     <br>
-                    At our core, we prioritize a strategic, client-focused approach—taking the time to understand each project’s objectives and delivering solutions that are secure, efficient, and built for long-term performance.
+                    At our core, we prioritize a strategic, client-focused approach—taking the time to understand each project’s objectives and delivering solutions that are secure, efficient, and built for long-term
+                    performance.
                     <br>
-                    Our comprehensive service portfolio includes advanced web hosting solutions, professional web design, secure VPN infrastructures, and fully integrated online billing systems. Each service is engineered to meet the highest standards of performance, security, and scalability.
+                    Our comprehensive service portfolio includes advanced web hosting solutions, professional web design, secure VPN infrastructures, and fully integrated online billing systems. Each service is
+                    engineered to meet the highest standards of performance, security, and scalability.
                     <br>
                     At ALADDIN HOSTING & IT SERVICES, LLC, we don’t just deliver services—we build long-term partnerships driven by trust, quality, and results.
                 </p>
@@ -98,7 +101,6 @@ require_once 'inc/menu.php'
 <?php
 require_once 'inc/footer.php'
 ?>
-
 
 
 </body>

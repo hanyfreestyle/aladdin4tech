@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>VPN - Aladdin 4Tech</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>VPN - Aladdin 4Tech</title>
 
   <?php
   require_once 'inc/header.php'
   ?>
 
-
+    <link rel="stylesheet" href="css/vpn.css">
 </head>
 <body>
 
@@ -20,10 +20,10 @@ require_once 'inc/menu.php'
 
 <!-- Banner -->
 <section class="page-banner">
-  <div class="container">
-    <div class="breadcrumb">Home Page</div>
-    <h1 class="page-title">VPN</h1>
-  </div>
+    <div class="container">
+        <div class="breadcrumb">Home Page</div>
+        <h1 class="page-title">VPN</h1>
+    </div>
 </section>
 
 <section class="hero">
@@ -36,10 +36,10 @@ require_once 'inc/menu.php'
                 browsing experience with our professional VPN solutions for personal
                 and business use.
             </p>
-<!--            <div class="hero-buttons">-->
-<!--                <a href="#" class="btn btn-primary">Get Started</a>-->
-<!--                <a href="#" class="btn btn-outline">View Plans</a>-->
-<!--            </div>-->
+            <!--            <div class="hero-buttons">-->
+            <!--                <a href="#" class="btn btn-primary">Get Started</a>-->
+            <!--                <a href="#" class="btn btn-outline">View Plans</a>-->
+            <!--            </div>-->
         </div>
 
         <div class="hero-card">
@@ -351,7 +351,6 @@ require_once 'inc/menu.php'
 <?php
 require_once 'inc/footer.php'
 ?>
-
 
 
 </body>
