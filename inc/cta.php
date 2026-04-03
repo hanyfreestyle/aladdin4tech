@@ -12,6 +12,6 @@
                 performance improvements for any specific platform or service.
             </p>
         </div>
-        <a href="#" class="btn btn-primary">Contact Us</a>
+        <a href="contact-us.php" class="btn btn-primary">Contact Us</a>
     </div>
 </section>

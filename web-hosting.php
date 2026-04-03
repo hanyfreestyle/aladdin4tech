@@ -103,89 +103,89 @@ require_once 'inc/menu.php'
     </div>
 </section>
 
-<section class="pricing-section">
-    <div class="container">
-        <div class="pricing-grid">
-
-            <div class="price-card">
-                <div class="price-head dark">ENTERPRISE</div>
-                <div class="price-box">
-                    <div class="currency">$</div>
-                    <div class="amount">89</div>
-                    <div class="period">PER MONTH</div>
-                </div>
-                <ul class="features">
-                    <li>INTEL CORE i5-2400 3.1 GHZ 4 CORES</li>
-                    <li>8 GB DDR3 RAM</li>
-                    <li>2X 500 GB SATA HDD</li>
-                    <li>100 Mbps UNMETERED BANDWIDTH</li>
-                    <li>1 STATIC IP</li>
-                </ul>
-                <div class="card-btn">
-                    <a href="#">SIGN UP</a>
-                </div>
-            </div>
-
-            <div class="price-card">
-                <div class="price-head dark">PROFESSIONAL</div>
-                <div class="price-box">
-                    <div class="currency">$</div>
-                    <div class="amount">79</div>
-                    <div class="period">PER MONTH</div>
-                </div>
-                <ul class="features">
-                    <li>INTEL CELERON G3900T 2.6 GHZ 2 CORES</li>
-                    <li>8 GB DDR3 RAM</li>
-                    <li>1X 1 TB SATA HDD</li>
-                    <li>10 Mbps UNMETERED BANDWIDTH</li>
-                    <li>1 STATIC IP</li>
-                </ul>
-                <div class="card-btn">
-                    <a href="#">SIGN UP</a>
-                </div>
-            </div>
-
-            <div class="price-card featured">
-                <div class="price-head blue">STANDARD</div>
-                <div class="price-box">
-                    <div class="currency">$</div>
-                    <div class="amount">59</div>
-                    <div class="period">PER MONTH</div>
-                </div>
-                <ul class="features">
-                    <li>INTEL XEON E3-1245 V5 33.5 GHZ 4 CORES</li>
-                    <li>32 GB DDR4 RAM</li>
-                    <li>2X 2 TB SATA HDD</li>
-                    <li>1 Gbps 5 TB BANDWIDTH</li>
-                    <li>1 STATIC IP</li>
-                </ul>
-                <div class="card-btn">
-                    <a href="#" class="active-btn">SIGN UP</a>
-                </div>
-            </div>
-
-            <div class="price-card">
-                <div class="price-head dark">BASIC</div>
-                <div class="price-box">
-                    <div class="currency">$</div>
-                    <div class="amount">14</div>
-                    <div class="period">PER MONTH</div>
-                </div>
-                <ul class="features">
-                    <li>INTEL ATOM C2350 1.7 GHZ 2 CORES</li>
-                    <li>4 GB DDR3 RAM</li>
-                    <li>1X 128 GB SATA HDD</li>
-                    <li>1 Gbps UNMETERED BANDWIDTH</li>
-                    <li>1 STATIC IP</li>
-                </ul>
-                <div class="card-btn">
-                    <a href="#">SIGN UP</a>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
+<!--<section class="pricing-section">-->
+<!--    <div class="container">-->
+<!--        <div class="pricing-grid">-->
+<!---->
+<!--            <div class="price-card">-->
+<!--                <div class="price-head dark">ENTERPRISE</div>-->
+<!--                <div class="price-box">-->
+<!--                    <div class="currency">$</div>-->
+<!--                    <div class="amount">89</div>-->
+<!--                    <div class="period">PER MONTH</div>-->
+<!--                </div>-->
+<!--                <ul class="features">-->
+<!--                    <li>INTEL CORE i5-2400 3.1 GHZ 4 CORES</li>-->
+<!--                    <li>8 GB DDR3 RAM</li>-->
+<!--                    <li>2X 500 GB SATA HDD</li>-->
+<!--                    <li>100 Mbps UNMETERED BANDWIDTH</li>-->
+<!--                    <li>1 STATIC IP</li>-->
+<!--                </ul>-->
+<!--                <div class="card-btn">-->
+<!--                    <a href="#">SIGN UP</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="price-card">-->
+<!--                <div class="price-head dark">PROFESSIONAL</div>-->
+<!--                <div class="price-box">-->
+<!--                    <div class="currency">$</div>-->
+<!--                    <div class="amount">79</div>-->
+<!--                    <div class="period">PER MONTH</div>-->
+<!--                </div>-->
+<!--                <ul class="features">-->
+<!--                    <li>INTEL CELERON G3900T 2.6 GHZ 2 CORES</li>-->
+<!--                    <li>8 GB DDR3 RAM</li>-->
+<!--                    <li>1X 1 TB SATA HDD</li>-->
+<!--                    <li>10 Mbps UNMETERED BANDWIDTH</li>-->
+<!--                    <li>1 STATIC IP</li>-->
+<!--                </ul>-->
+<!--                <div class="card-btn">-->
+<!--                    <a href="#">SIGN UP</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="price-card featured">-->
+<!--                <div class="price-head blue">STANDARD</div>-->
+<!--                <div class="price-box">-->
+<!--                    <div class="currency">$</div>-->
+<!--                    <div class="amount">59</div>-->
+<!--                    <div class="period">PER MONTH</div>-->
+<!--                </div>-->
+<!--                <ul class="features">-->
+<!--                    <li>INTEL XEON E3-1245 V5 33.5 GHZ 4 CORES</li>-->
+<!--                    <li>32 GB DDR4 RAM</li>-->
+<!--                    <li>2X 2 TB SATA HDD</li>-->
+<!--                    <li>1 Gbps 5 TB BANDWIDTH</li>-->
+<!--                    <li>1 STATIC IP</li>-->
+<!--                </ul>-->
+<!--                <div class="card-btn">-->
+<!--                    <a href="#" class="active-btn">SIGN UP</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="price-card">-->
+<!--                <div class="price-head dark">BASIC</div>-->
+<!--                <div class="price-box">-->
+<!--                    <div class="currency">$</div>-->
+<!--                    <div class="amount">14</div>-->
+<!--                    <div class="period">PER MONTH</div>-->
+<!--                </div>-->
+<!--                <ul class="features">-->
+<!--                    <li>INTEL ATOM C2350 1.7 GHZ 2 CORES</li>-->
+<!--                    <li>4 GB DDR3 RAM</li>-->
+<!--                    <li>1X 128 GB SATA HDD</li>-->
+<!--                    <li>1 Gbps UNMETERED BANDWIDTH</li>-->
+<!--                    <li>1 STATIC IP</li>-->
+<!--                </ul>-->
+<!--                <div class="card-btn">-->
+<!--                    <a href="#">SIGN UP</a>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--        </div>-->
+<!--    </div>-->
+<!--</section>-->
 
 <?php
 require_once 'inc/footer.php'
