@@ -150,6 +150,8 @@
         }
       }
     </style>
+
+
 </head>
 <body>
 
@@ -159,20 +161,20 @@ require_once 'inc/menu.php'
 ?>
 
 
-<section class="hero-slider">
+<section class="hero-slider d">
     <div class="slides">
         <div class="slide active">
-            <img src="img/bg1.jpg" alt="Online Store">
+            <img src="img/bg1-2.jpg" alt="Online Store">
         </div>
 
         <div class="slide active">
-            <img src="img/bg2.jpg" alt="Online Store">
+            <img src="img/bg2-2.jpg" alt="Online Store">
         </div>
 
-        <!--        <div class="slide">-->
-        <!--            <img src="images/slide-2.jpg" alt="Shopping Cart">-->
-        <!--        </div>-->
-        <!---->
+
+        <div class="slide active">
+            <img src="img/bg3.jpg" alt="Online Store">
+        </div>
         <!--        <div class="slide">-->
         <!--            <img src="images/slide-3.jpg" alt="Ecommerce Website">-->
         <!--        </div>-->
@@ -188,7 +190,51 @@ require_once 'inc/menu.php'
     </div>
 </section>
 
+<section class="hero">
+    <div class="container hero-grid">
+        <div class="hero-text">
+            <span class="hero-badge">Secure Private Connection</span>
+            <h1>Fast, Reliable, and Secure VPN Services</h1>
+            <p>
+                Protect your privacy, secure your internet traffic, and enjoy a safer
+                browsing experience with our professional VPN solutions for personal
+                and business use.
+            </p>
+            <!--            <div class="hero-buttons">-->
+            <!--                <a href="#" class="btn btn-primary">Get Started</a>-->
+            <!--                <a href="#" class="btn btn-outline">View Plans</a>-->
+            <!--            </div>-->
+        </div>
 
+        <div class="hero-card">
+            <div class="hero-card-top"></div>
+            <div class="hero-card-body">
+                <div class="shield-circle">VPN</div>
+                <div class="hero-lines">
+                    <div class="line w-100"></div>
+                    <div class="line w-75"></div>
+                    <div class="line w-90"></div>
+                    <div class="line w-60"></div>
+                </div>
+
+                <div class="mini-stats">
+                    <div class="mini-box">
+                        <h3>256-Bit</h3>
+                        <p>Encryption</p>
+                    </div>
+                    <div class="mini-box">
+                        <h3>99.9%</h3>
+                        <p>Uptime</p>
+                    </div>
+                    <div class="mini-box">
+                        <h3>24/7</h3>
+                        <p>Support</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <?php
 require_once 'inc/footer.php'
 
