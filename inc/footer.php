@@ -29,6 +29,10 @@
                 <li><i class="fa-solid fa-caret-right"></i><a href="index.php">Home</a></li>
                 <li><i class="fa-solid fa-caret-right"></i><a href="about-us.php">About Us</a></li>
                 <li><i class="fa-solid fa-caret-right"></i><a href="contact-us.php">Contact Us</a></li>
+                <li><i class="fa-solid fa-caret-right"></i><a href="terms-of-service-page.php"> Terms of Service page</a></li>
+                <li><i class="fa-solid fa-caret-right"></i><a href="refund-policy-page.php"> Refund Policy page</a></li>
+                <li><i class="fa-solid fa-caret-right"></i><a href="privacy-policy-page.php"> Privacy Policy page</a></li>
+                <li><i class="fa-solid fa-caret-right"></i><a href="acceptable-use-policy-page.php"> Acceptable Use Policy page</a></li>
             </ul>
         </div>
 
