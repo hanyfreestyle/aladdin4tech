@@ -143,9 +143,8 @@ require_once 'inc/menu.php'
                 <p><strong>Address:</strong></p>
                 <p>
                     ALADDIN4TECH<br>
-                    801–803 Transfer Road<br>
-                    Unit OFC 03<br>
-                    St. Paul, MN 55114, USA
+                    5291 3RD ST NE <br>
+                    FRIDLEY, MN 55421
                 </p>
             </div>
         </div>

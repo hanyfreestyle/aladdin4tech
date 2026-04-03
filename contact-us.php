@@ -55,9 +55,8 @@ require_once 'inc/menu.php'
                             <span class="icon-circle"><i class="fa-solid fa-location-dot"></i></span>
                             <span><strong>Address:</strong>
                             Aladdin4Tech  <br>
-                                801-803 Transfer Road <br>
-                                Unit: OFC 03<br>
-                                St. Paul, MN 55114<br>
+                                            5291 3RD ST NE <br>
+                    FRIDLEY, MN 55421
                             </span>
                         </li>
 
