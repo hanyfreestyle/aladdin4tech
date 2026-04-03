@@ -4,6 +4,18 @@
   box-sizing: border-box;
 }
 
+:root {
+  --primary: #0a8ddb;
+  --primary-dark: #087abf;
+  --dark: #1f242b;
+  --dark-2: #20262d;
+  --text: #6f6f6f;
+  --heading: #232a31;
+  --light-bg: #f5f5f5;
+  --white: #ffffff;
+  --border: #e4e4e4;
+}
+
 body {
   font-family: "Cairo", sans-serif;
   background: #f3f3f3;
@@ -410,4 +422,27 @@ ul {
   .footer h4 {
     font-size: 18px;
   }
+}
+
+.cta-section {
+  background: linear-gradient(90deg, var(--dark), var(--dark-2));
+  padding: 55px 0;
+}
+
+.cta-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.cta-box h2 {
+  color: var(--white);
+  font-size: 34px;
+  margin-bottom: 8px;
+}
+
+.cta-box p {
+  color: #c3c9cf;
+  font-size: 17px;
 }

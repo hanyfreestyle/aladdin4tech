@@ -9,148 +9,8 @@
   require_once 'inc/header.php'
   ?>
 
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-
-      .hero-slider {
-        position: relative;
-        width: 100%;
-        height: 610px;
-        overflow: hidden;
-        background: #ddd;
-      }
-
-      .slides {
-        position: relative;
-        width: 100%;
-        height: 100%;
-      }
-
-      .slide {
-        position: absolute;
-        inset: 0;
-        opacity: 0;
-        visibility: hidden;
-        transition: opacity 0.7s ease, visibility 0.7s ease;
-      }
-
-      .slide.active {
-        opacity: 1;
-        visibility: visible;
-        z-index: 1;
-      }
-
-      .slide img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        display: block;
-      }
-
-      /* arrows */
-      .slider-btn {
-        position: absolute;
-        top: 55%;
-        transform: translateY(-50%);
-        width: 40px;
-        height: 40px;
-        border: none;
-        background: rgba(55, 55, 55, 0.7);
-        color: #fff;
-        font-size: 28px;
-        line-height: 1;
-        border-radius: 6px;
-        cursor: pointer;
-        z-index: 5;
-        transition: background 0.3s ease;
-      }
-
-      .slider-btn:hover {
-        background: rgba(25, 25, 25, 0.9);
-      }
-
-      .slider-btn.prev {
-        left: 32px;
-      }
-
-      .slider-btn.next {
-        right: 32px;
-      }
-
-      /* dots */
-      .slider-dots {
-        position: absolute;
-        left: 50%;
-        bottom: 34px;
-        transform: translateX(-50%);
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        z-index: 5;
-      }
-
-      .dot {
-        width: 8px;
-        height: 8px;
-        border: none;
-        border-radius: 50%;
-        background: rgba(255, 255, 255, 0.45);
-        cursor: pointer;
-        transition: 0.3s ease;
-      }
-
-      .dot.active {
-        background: #fff;
-        transform: scale(1.1);
-      }
-
-      /* optional overlay if needed */
-      .hero-slider::after {
-        content: "";
-        position: absolute;
-        inset: 0;
-        background: rgba(0, 0, 0, 0.03);
-        pointer-events: none;
-        z-index: 2;
-      }
-
-      @media (max-width: 992px) {
-        .hero-slider {
-          height: 500px;
-        }
-      }
-
-      @media (max-width: 768px) {
-        .hero-slider {
-          height: 380px;
-        }
-        .slider-btn {
-          width: 36px;
-          height: 36px;
-          font-size: 24px;
-        }
-        .slider-btn.prev {
-          left: 16px;
-        }
-        .slider-btn.next {
-          right: 16px;
-        }
-        .slider-dots {
-          bottom: 20px;
-        }
-      }
-
-      @media (max-width: 576px) {
-        .hero-slider {
-          height: 280px;
-        }
-      }
-    </style>
-
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/about-web-design.css">
 
 </head>
 <body>
@@ -161,23 +21,17 @@ require_once 'inc/menu.php'
 ?>
 
 
-<section class="hero-slider d">
+<section class="hero-slider">
     <div class="slides">
         <div class="slide active">
             <img src="img/bg1-2.jpg" alt="Online Store">
         </div>
-
         <div class="slide active">
             <img src="img/bg2-2.jpg" alt="Online Store">
         </div>
-
-
         <div class="slide active">
             <img src="img/bg3.jpg" alt="Online Store">
         </div>
-        <!--        <div class="slide">-->
-        <!--            <img src="images/slide-3.jpg" alt="Ecommerce Website">-->
-        <!--        </div>-->
     </div>
 
     <button class="slider-btn prev" aria-label="Previous slide">&#10094;</button>
@@ -235,7 +89,88 @@ require_once 'inc/menu.php'
         </div>
     </div>
 </section>
+
+<section class="mission-vision-section section_d">
+    <div class="container">
+        <div class="info-cards">
+
+            <div class="info-card">
+                <div class="card-image">
+                    <img src="img/about_us-2.jpg">
+                </div>
+                <div class="card-content">
+                    <h3>OUR MISSION</h3>
+                    <p>
+                        Focusing on our customers needs and make it done in the best way,
+                        short time, and competitive prices. We are looking for a long-term
+                        business relationship with our customers to make sure that their
+                        business is going great as they planned.
+                    </p>
+                </div>
+            </div>
+
+            <div class="info-card">
+                <div class="card-image">
+                    <img src="img/about_us-3.jpg">
+                </div>
+                <div class="card-content">
+                    <h3>OUR VISION</h3>
+                    <p>
+                        Nothing come for free and behind every successful business there are
+                        a great efforts and awesome teamwork with an excellent and updated
+                        knowledge, which is required to provide the best possible service with
+                        high quality at the lowest price. This is our vision and strategy to build
+                        our large network of customers and gain their respect and appreciation,
+                        this is our way to create the opportunities for our business.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="about-web-design">
+    <div class="container">
+        <div class="section-heading">
+            <h2>Website Design Solutions</h2>
+            <p>
+                A professional website is one of the most important tools for any
+                business. It helps you present your services, connect with customers,
+                and build a strong digital presence.
+            </p>
+        </div>
+
+        <div class="about-grid">
+            <div class="about-box">
+                <h3>Creative Design</h3>
+                <p>
+                    We design clean and modern layouts that reflect your brand identity
+                    and create a strong first impression for your visitors.
+                </p>
+            </div>
+
+            <div class="about-box">
+                <h3>Responsive Layout</h3>
+                <p>
+                    Your website will look great and work perfectly on desktop, tablet,
+                    and mobile devices for the best user experience.
+                </p>
+            </div>
+
+            <div class="about-box">
+                <h3>Business Focused</h3>
+                <p>
+                    We build websites that are not only beautiful, but also structured
+                    to support your business goals and increase conversions.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
 <?php
+require_once 'inc/cta.php';
 require_once 'inc/footer.php'
 
 ?>
