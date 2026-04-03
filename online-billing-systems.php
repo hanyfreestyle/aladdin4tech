@@ -45,10 +45,10 @@ require_once 'inc/menu.php'
                 with confidence.
             </p>
 
-<!--            <div class="hero-buttons">-->
-<!--                <a href="#" class="btn btn-primary">Get Started</a>-->
-<!--                <a href="#" class="btn btn-outline">Contact Us</a>-->
-<!--            </div>-->
+            <!--            <div class="hero-buttons">-->
+            <!--                <a href="#" class="btn btn-primary">Get Started</a>-->
+            <!--                <a href="#" class="btn btn-outline">Contact Us</a>-->
+            <!--            </div>-->
         </div>
 
         <div class="hero-card">
@@ -319,9 +319,9 @@ require_once 'inc/menu.php'
             </div>
 
             <div class="industry-card">
-                <h3>IPTV Services</h3>
+                <h3>Legal IPTV Services</h3>
                 <p>
-                    Connect billing and client automation with IPTV workflows and custom
+                    Connect billing and client automation with Legal IPTV workflows and custom
                     service modules.
                 </p>
             </div>
