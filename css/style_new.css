@@ -561,3 +561,135 @@ ul {
     line-height: 1.8;
   }
 }
+
+
+.aladdin-refund-policy-section {
+  padding: 80px 20px;
+  background: #f7f8fb;
+}
+
+.aladdin-refund-policy-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+.aladdin-refund-policy-header {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.aladdin-refund-policy-meta {
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: #6b7280;
+  line-height: 1.7;
+}
+
+.aladdin-refund-policy-intro {
+  margin-bottom: 35px;
+}
+
+.aladdin-refund-policy-intro p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.9;
+  color: #374151;
+}
+
+.aladdin-refund-policy-content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.aladdin-refund-policy-item {
+  padding: 24px;
+  background: #fafafa;
+  border: 1px solid #eeeeee;
+  border-radius: 16px;
+  transition: all 0.3s ease;
+}
+
+.aladdin-refund-policy-item:hover {
+  background: #ffffff;
+  border-color: #d8dce3;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.04);
+}
+
+.aladdin-refund-policy-item h3 {
+  margin: 0 0 12px;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #111827;
+  font-weight: 700;
+}
+
+.aladdin-refund-policy-item p {
+  margin: 0 0 12px;
+  font-size: 15px;
+  line-height: 1.9;
+  color: #4b5563;
+}
+
+.aladdin-refund-policy-item p:last-child {
+  margin-bottom: 0;
+}
+
+.aladdin-refund-policy-list {
+  margin: 12px 0 0;
+  padding-left: 20px;
+}
+
+.aladdin-refund-policy-list li {
+  margin-bottom: 10px;
+  font-size: 15px;
+  line-height: 1.8;
+  color: #4b5563;
+}
+
+.aladdin-refund-policy-list li:last-child {
+  margin-bottom: 0;
+}
+
+.aladdin-refund-policy-contact {
+  background: #f3f6fb;
+  border-color: #dbe4f0;
+}
+
+.aladdin-refund-policy-contact p strong,
+.aladdin-refund-policy-meta strong {
+  color: #111827;
+}
+
+@media (max-width: 768px) {
+  .aladdin-refund-policy-section {
+    padding: 50px 15px;
+  }
+
+  .aladdin-refund-policy-container {
+    padding: 24px 18px;
+    border-radius: 16px;
+  }
+
+  .aladdin-refund-policy-item {
+    padding: 18px;
+    border-radius: 14px;
+  }
+
+  .aladdin-refund-policy-item h3 {
+    font-size: 18px;
+  }
+
+  .aladdin-refund-policy-intro p,
+  .aladdin-refund-policy-item p,
+  .aladdin-refund-policy-list li {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+}
