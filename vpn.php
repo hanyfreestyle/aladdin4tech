@@ -195,7 +195,7 @@ require_once 'inc/menu.php'
                 <div class="price-head dark">Golden VPN</div>
                 <div class="price-box">
                     <div class="currency" style="font-size: 14px; margin-bottom: 10px">Starting from</div>
-                    <div class="amount">10.99 $</div>
+                    <div class="amount">$ 10.99</div>
                     <div class="period">Per Month</div>
                 </div>
                 <ul class="features-list">
@@ -214,11 +214,11 @@ require_once 'inc/menu.php'
                 <div class="price-head blue">Platinum VPN</div>
                 <div class="price-box">
                     <div class="currency" style="font-size: 14px; margin-bottom: 10px">Starting from</div>
-                    <div class="amount">19.99 $</div>
+                    <div class="amount">$ 19.99</div>
                     <div class="period">Per Month</div>
                 </div>
                 <ul class="features-list">
-                    <li>5 Device Connections</li>
+                    <li>2 Device Connections</li>
                     <li>Secure Encryption</li>
                     <li>High Speed Servers</li>
                     <li>Priority Support</li>
@@ -233,11 +233,11 @@ require_once 'inc/menu.php'
                 <div class="price-head dark">Platinum Pro VPN</div>
                 <div class="price-box">
                     <div class="currency" style="font-size: 14px; margin-bottom: 10px">Starting from</div>
-                    <div class="amount">19.99 $</div>
+                    <div class="amount">$ 19.99</div>
                     <div class="period">Per Month</div>
                 </div>
                 <ul class="features-list">
-                    <li>Unlimited Team Access</li>
+                    <li>2 Device Connections</li>
                     <li>Advanced Security</li>
                     <li>Dedicated Support</li>
                     <li>Business Usage Ready</li>
