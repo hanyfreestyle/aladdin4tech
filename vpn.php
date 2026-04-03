@@ -36,10 +36,10 @@ require_once 'inc/menu.php'
                 browsing experience with our professional VPN solutions for personal
                 and business use.
             </p>
-            <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">Get Started</a>
-                <a href="#" class="btn btn-outline">View Plans</a>
-            </div>
+<!--            <div class="hero-buttons">-->
+<!--                <a href="#" class="btn btn-primary">Get Started</a>-->
+<!--                <a href="#" class="btn btn-outline">View Plans</a>-->
+<!--            </div>-->
         </div>
 
         <div class="hero-card">
