@@ -192,10 +192,10 @@ require_once 'inc/menu.php'
 
         <div class="pricing-grid">
             <div class="price-card">
-                <div class="price-head dark">Basic</div>
+                <div class="price-head dark">Golden VPN</div>
                 <div class="price-box">
-                    <div class="currency">$</div>
-                    <div class="amount">9</div>
+                    <div class="currency" style="font-size: 14px; margin-bottom: 10px">Starting from</div>
+                    <div class="amount">10.99 $</div>
                     <div class="period">Per Month</div>
                 </div>
                 <ul class="features-list">
@@ -211,10 +211,10 @@ require_once 'inc/menu.php'
             </div>
 
             <div class="price-card featured">
-                <div class="price-head blue">Standard</div>
+                <div class="price-head blue">Platinum VPN</div>
                 <div class="price-box">
-                    <div class="currency">$</div>
-                    <div class="amount">19</div>
+                    <div class="currency" style="font-size: 14px; margin-bottom: 10px">Starting from</div>
+                    <div class="amount">19.99 $</div>
                     <div class="period">Per Month</div>
                 </div>
                 <ul class="features-list">
@@ -230,10 +230,10 @@ require_once 'inc/menu.php'
             </div>
 
             <div class="price-card">
-                <div class="price-head dark">Business</div>
+                <div class="price-head dark">Platinum Pro VPN</div>
                 <div class="price-box">
-                    <div class="currency">$</div>
-                    <div class="amount">49</div>
+                    <div class="currency" style="font-size: 14px; margin-bottom: 10px">Starting from</div>
+                    <div class="amount">19.99 $</div>
                     <div class="period">Per Month</div>
                 </div>
                 <ul class="features-list">
