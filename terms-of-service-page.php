@@ -142,7 +142,7 @@ require_once 'inc/menu.php'
                 <p><strong>Email:</strong> info@aladdin4tech.com</p>
                 <p><strong>Address:</strong></p>
                 <p>
-                    ALADDIN HOSTING &amp; IT SERVICES, LLC<br>
+                    Aladdin4Tech<br>
                     801–803 Transfer Road<br>
                     Unit OFC 03<br>
                     St. Paul, MN 55114, USA

@@ -59,8 +59,8 @@
 
     <div class="footer-bottom">
         <div class="container footer-bottom-wrap">
-            <div>All Rights Reserved © 2020 - 2026 Aladdin Hosting & IT Services, LLC.</div>
-            <div><strong>Powered By</strong> Aladdin Hosting & IT Services, LLC.</div>
+            <div>All Rights Reserved © 2020 - 2026 Aladdin4Tech</div>
+            <div><strong>Powered By</strong> Aladdin4Tech</div>
         </div>
     </div>
 </footer>
