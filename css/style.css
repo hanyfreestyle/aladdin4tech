@@ -48,7 +48,8 @@ ul {
 }
 
 .logo img {
-  max-height: 60px;
+  max-height: 80px;
+  margin-top: 10px;
 }
 
 .logo-mark {
@@ -340,7 +341,7 @@ ul {
 }
 
 .footer-bottom {
-  border-top: 1px solid rgba(255,255,255,0.04);
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
   padding: 18px 0;
 }
 
@@ -365,21 +366,17 @@ ul {
     flex-direction: column;
     padding: 15px 0;
   }
-
   .menu {
     flex-wrap: wrap;
     justify-content: center;
   }
-
   .menu li a {
     padding: 14px 12px;
   }
-
   .contact-grid {
     grid-template-columns: 1fr;
     gap: 40px;
   }
-
   .footer-top {
     grid-template-columns: 1fr 1fr;
   }
@@ -389,17 +386,14 @@ ul {
   .form-row {
     grid-template-columns: 1fr;
   }
-
   .footer-top {
     grid-template-columns: 1fr;
   }
-
   .footer-bottom-wrap {
     flex-direction: column;
     gap: 8px;
     text-align: center;
   }
-
   .page-title::after {
     width: 100px;
   }
@@ -409,11 +403,9 @@ ul {
   .logo-text {
     font-size: 20px;
   }
-
   .form-box h2 {
     font-size: 24px;
   }
-
   .info-block h3,
   .footer h4 {
     font-size: 18px;
