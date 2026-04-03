@@ -1,29 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ar">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>VPN Services</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/vpn.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VPN - Aladdin 4Tech</title>
+
+  <?php
+  require_once 'inc/header.php'
+  ?>
+
+
 </head>
 <body>
 
-<header class="site-header">
-    <div class="container header-wrap">
-        <div class="logo">ALADDIN <span>4TECH</span></div>
+<!-- Header -->
+<?php
+require_once 'inc/menu.php'
+?>
 
-        <nav class="nav">
-            <a href="#">Home</a>
-            <a href="#">About Us</a>
-            <a href="#">Services</a>
-            <a href="#" class="active">VPN Services</a>
-            <a href="#">Contact Us</a>
-        </nav>
-    </div>
-</header>
+<!-- Banner -->
+<section class="page-banner">
+  <div class="container">
+    <div class="breadcrumb">Home Page</div>
+    <h1 class="page-title">VPN</h1>
+  </div>
+</section>
 
 <section class="hero">
     <div class="container hero-grid">
@@ -347,52 +348,11 @@
     </div>
 </section>
 
-<footer class="site-footer">
-    <div class="container footer-grid">
-        <div>
-            <h3>About VPN Service</h3>
-            <p>
-                We provide secure VPN solutions for personal and business users who
-                need safer and more reliable internet access.
-            </p>
-        </div>
+<?php
+require_once 'inc/footer.php'
+?>
 
-        <div>
-            <h3>Services</h3>
-            <ul>
-                <li><a href="#">Personal VPN</a></li>
-                <li><a href="#">Business VPN</a></li>
-                <li><a href="#">Remote Access</a></li>
-                <li><a href="#">VPN Support</a></li>
-            </ul>
-        </div>
 
-        <div>
-            <h3>Quick Links</h3>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Pricing</a></li>
-                <li><a href="#">Contact Us</a></li>
-            </ul>
-        </div>
-
-        <div>
-            <h3>Contact Info</h3>
-            <ul>
-                <li>Email: info@example.com</li>
-                <li>Phone: +1 000 000 0000</li>
-                <li>Address: Minneapolis, MN</li>
-            </ul>
-        </div>
-    </div>
-
-    <div class="footer-bottom">
-        <div class="container">
-            <p>© 2025 VPN Services. All Rights Reserved.</p>
-        </div>
-    </div>
-</footer>
 
 </body>
 </html>
