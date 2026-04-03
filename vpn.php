@@ -206,7 +206,7 @@ require_once 'inc/menu.php'
                     <li>Monthly Billing</li>
                 </ul>
                 <div class="card-btn">
-                    <a href="#">Sign Up</a>
+                    <a href="https://dastreamz.net/billing/index.php?rp=/store/gold/1-month-1-device">Sign Up</a>
                 </div>
             </div>
 
@@ -225,7 +225,7 @@ require_once 'inc/menu.php'
                     <li>Best Value Plan</li>
                 </ul>
                 <div class="card-btn">
-                    <a href="#" class="active-btn">Sign Up</a>
+                    <a href="https://dastreamz.net/billing/index.php?rp=/store/platinum-plans/1-month-2-devices" class="active-btn">Sign Up</a>
                 </div>
             </div>
 
@@ -244,7 +244,7 @@ require_once 'inc/menu.php'
                     <li>Flexible Deployment</li>
                 </ul>
                 <div class="card-btn">
-                    <a href="#">Sign Up</a>
+                    <a href="https://dastreamz.net/billing/index.php?rp=/store/all-products/plp-vpn-1-month-2-devices-with-recurring-payments">Sign Up</a>
                 </div>
             </div>
         </div>
