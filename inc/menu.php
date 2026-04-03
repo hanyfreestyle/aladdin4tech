@@ -1,7 +1,7 @@
 <header class="top-header">
     <div class="container navbar">
         <div class="logo">
-            <a href="index.php"> <img src="img/logo.png"></a>
+            <a href="index.php"> <img src="img/logo-2.png"></a>
         </div>
 
         <ul class="menu">
