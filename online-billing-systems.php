@@ -45,10 +45,10 @@ require_once 'inc/menu.php'
                 with confidence.
             </p>
 
-            <div class="hero-buttons">
-                <a href="#" class="btn btn-primary">Get Started</a>
-                <a href="#" class="btn btn-outline">Contact Us</a>
-            </div>
+<!--            <div class="hero-buttons">-->
+<!--                <a href="#" class="btn btn-primary">Get Started</a>-->
+<!--                <a href="#" class="btn btn-outline">Contact Us</a>-->
+<!--            </div>-->
         </div>
 
         <div class="hero-card">
