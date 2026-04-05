@@ -205,9 +205,9 @@ require_once 'inc/menu.php'
                     <li>Email Support</li>
                     <li>Monthly Billing</li>
                 </ul>
-                <div class="card-btn">
-                    <a href="https://dastreamz.net/billing/index.php?rp=/store/gold/1-month-1-device">Sign Up</a>
-                </div>
+<!--                <div class="card-btn">-->
+<!--                    <a href="https://dastreamz.net/billing/index.php?rp=/store/gold/1-month-1-device">Sign Up</a>-->
+<!--                </div>-->
             </div>
 
             <div class="price-card featured">
@@ -224,9 +224,9 @@ require_once 'inc/menu.php'
                     <li>Priority Support</li>
                     <li>Best Value Plan</li>
                 </ul>
-                <div class="card-btn">
-                    <a href="https://dastreamz.net/billing/index.php?rp=/store/platinum-plans/1-month-2-devices" class="active-btn">Sign Up</a>
-                </div>
+<!--                <div class="card-btn">-->
+<!--                    <a href="https://dastreamz.net/billing/index.php?rp=/store/platinum-plans/1-month-2-devices" class="active-btn">Sign Up</a>-->
+<!--                </div>-->
             </div>
 
             <div class="price-card">
@@ -243,9 +243,9 @@ require_once 'inc/menu.php'
                     <li>Business Usage Ready</li>
                     <li>Flexible Deployment</li>
                 </ul>
-                <div class="card-btn">
-                    <a href="https://dastreamz.net/billing/index.php?rp=/store/all-products/plp-vpn-1-month-2-devices-with-recurring-payments">Sign Up</a>
-                </div>
+<!--                <div class="card-btn">-->
+<!--                    <a href="https://dastreamz.net/billing/index.php?rp=/store/all-products/plp-vpn-1-month-2-devices-with-recurring-payments">Sign Up</a>-->
+<!--                </div>-->
             </div>
         </div>
     </div>
